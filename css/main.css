@@ -48,7 +48,7 @@
 }
 
 .loagan.bw {
-    background-image: url('david-bw.png');
+    background-image: url('../david-bw.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -57,7 +57,7 @@
 
 .logan.color {
     width: 100%;
-    background-image: url('david-color.png');
+    background-image: url('../david-color.png');
     background-size: cover;
     background-position: center;
     position: absolute;
